@@ -2,6 +2,10 @@
 
 A demo repo based on [OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs/guides/chat).
 
+## fork from
+
+[ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo)
+
 ## Run Locally
 
 1. Setup & Install dependencies
