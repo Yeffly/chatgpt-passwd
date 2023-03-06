@@ -17,7 +17,11 @@ A demo repo based on [OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs
     ```
     OPENAI_API_KEY=sk-xxx...
     ```
-4. Run the app
+4. Basic Auth to `.env`
+    ```
+    BASIC_AUTH=admin:123456
+    ```
+5. Run the app
     ```shell
     npm run dev
     ```
